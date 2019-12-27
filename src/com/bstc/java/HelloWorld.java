@@ -53,7 +53,7 @@ public class HelloWorld {
         hashMap.put("age","100");
         hashMap.put("major","TsingHua");
         hashMap.put("major","TsingHua");
-
+        System.out.println(hashMap);
     }
 
 
